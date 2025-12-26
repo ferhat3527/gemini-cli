@@ -126,7 +126,7 @@ Integrate Gemini CLI directly into your GitHub workflows with
 - **Custom Workflows**: Build automated, scheduled and on-demand workflows
   tailored to your team's needs
 
-## 🔐 Authentication Options
+## 🔐 Authentication Options 
 
 Choose the authentication method that best fits your needs:
 
