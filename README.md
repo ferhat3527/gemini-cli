@@ -132,7 +132,7 @@ Choose the authentication method that best fits your needs:
 
 ### Option 1: Login with Google (OAuth login using your Google Account)
 
-**✨ Best for:** Individual developers as well as anyone who has a Gemini Code
+**✨ Best for:** Individual developers as well as anyone who has a Gemini Code 
 Assist License. (see
 [quota limits and terms of service](https://cloud.google.com/gemini/docs/quotas)
 for details)
